@@ -15,7 +15,7 @@
 <?php
 
 $host = 'localhost';
-$db   = 'wisata';
+$db   = 'wisata_smg';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
